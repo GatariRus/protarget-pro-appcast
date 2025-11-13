@@ -12,7 +12,7 @@
       <pubDate>Wed, 20 Oct 2025 12:00:00 +0000</pubDate>
       <enclosure
         url="https://play.google.com/store/apps/details?id=kz.protarget_pro"
-        sparkle:version="1.0.10"
+        sparkle:version="1.0.12"
         sparkle:os="android" />
     </item>
 
@@ -25,7 +25,7 @@
       <pubDate>Wed, 20 Oct 2025 12:00:00 +0000</pubDate>
       <enclosure
         url="https://apps.apple.com/app/id6746581211"
-        sparkle:version="1.0.48"
+        sparkle:version="1.0.50"
         sparkle:os="ios" />
     </item>
   </channel>
