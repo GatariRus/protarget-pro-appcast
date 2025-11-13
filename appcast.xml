@@ -5,7 +5,7 @@
 
     <!-- ANDROID -->
     <item>
-      <title>Android 1.0.10</title>
+      <title>Android 1.0.12</title>
       <description><![CDATA[
         Исправления и улучшения стабильности.
       ]]></description>
@@ -18,7 +18,7 @@
 
     <!-- iOS -->
     <item>
-      <title>iOS 1.0.48</title>
+      <title>iOS 1.0.50</title>
       <description><![CDATA[
         Исправления и улучшения стабильности.
       ]]></description>
