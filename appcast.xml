@@ -18,14 +18,14 @@
 
     <!-- iOS -->
     <item>
-      <title>iOS 1.0.54</title>
+      <title>iOS 1.0.60</title>
       <description><![CDATA[
         Исправления и улучшения стабильности.
       ]]></description>
       <pubDate>Wed, 20 Oct 2025 12:00:00 +0000</pubDate>
       <enclosure
         url="https://apps.apple.com/app/id6746581211"
-        sparkle:version="1.0.54"
+        sparkle:version="1.0.60"
         sparkle:os="ios" />
     </item>
   </channel>
